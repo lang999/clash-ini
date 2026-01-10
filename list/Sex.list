@@ -7,6 +7,9 @@ DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,phprcdn.com
 DOMAIN-SUFFIX,pornhubpremium.com
+DOMAIN-SUFFIX,cn.pornhub.com
+DOMAIN-SUFFIX,i.xgroovy.com
+DOMAIN-SUFFIX,cn.xgroovy.com
 
 # --- XVideos & XNXX ---
 DOMAIN-SUFFIX,xvideos.com
@@ -17,11 +20,16 @@ DOMAIN-SUFFIX,xnxx-cdn.com
 
 # --- 亚洲主流 (Jable/MissAV/91) ---
 DOMAIN-SUFFIX,jable.tv
-DOMAIN-SUFFIX,missav.com
+DOMAIN-SUFFIX,missav.live
 DOMAIN-SUFFIX,91porn.com
 DOMAIN-SUFFIX,91p49.com
+DOMAIN-SUFFIX,api1.lwvawzco.xyz
+DOMAIN-SUFFIX,we.killcovid2020.com
 DOMAIN-SUFFIX,workfield.cc
 DOMAIN-SUFFIX,avgle.com
+DOMAIN-SUFFIX,loyapi02.xingqu200.com
+DOMAIN-SUFFIX,dpi4.tbrapi.org
+DOMAIN-SUFFIX,jiuse.ai
 
 # --- 动漫/二次元 (nhentai/Hanime) ---
 DOMAIN-SUFFIX,nhentai.net
@@ -33,3 +41,4 @@ DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,sex
 DOMAIN-KEYWORD,jav
+DOMAIN-KEYWORD,api1
