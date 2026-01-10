@@ -1,3 +1,35 @@
+# --- 1024/T66Y ---
 DOMAIN-SUFFIX,t66y.com
+DOMAIN-SUFFIX,cl.6057.info
+
+# --- Pornhub 系列 ---
 DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,phprcdn.com
+DOMAIN-SUFFIX,pornhubpremium.com
+
+# --- XVideos & XNXX ---
 DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,xv-s.com
+DOMAIN-SUFFIX,xvideos-cdn.com
+DOMAIN-SUFFIX,xnxx.com
+DOMAIN-SUFFIX,xnxx-cdn.com
+
+# --- 亚洲主流 (Jable/MissAV/91) ---
+DOMAIN-SUFFIX,jable.tv
+DOMAIN-SUFFIX,missav.com
+DOMAIN-SUFFIX,91porn.com
+DOMAIN-SUFFIX,91p49.com
+DOMAIN-SUFFIX,workfield.cc
+DOMAIN-SUFFIX,avgle.com
+
+# --- 动漫/二次元 (nhentai/Hanime) ---
+DOMAIN-SUFFIX,nhentai.net
+DOMAIN-SUFFIX,hanime1.me
+DOMAIN-SUFFIX,exhentai.org
+DOMAIN-SUFFIX,e-hentai.org
+
+# --- 关键词匹配 ---
+DOMAIN-KEYWORD,porn
+DOMAIN-KEYWORD,sex
+DOMAIN-KEYWORD,jav
