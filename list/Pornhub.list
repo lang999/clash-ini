@@ -1,1 +1,5 @@
-DOMAIN-SUFFIX,pornhub.com
+- DOMAIN-SUFFIX,pornhub.com,PROXY
+- DOMAIN-SUFFIX,phncdn.com,PROXY
+- DOMAIN-SUFFIX,phprcdn.com,PROXY
+- DOMAIN-SUFFIX,pornhubpremium.com,PROXY
+- DOMAIN-KEYWORD,pornhub,PROXY
