@@ -1,5 +1,40 @@
+# --- 常用成人通用顶级域名 (全球通用) ---
+- DOMAIN-SUFFIX,sex,PROXY
+- DOMAIN-SUFFIX,porn,PROXY
+- DOMAIN-SUFFIX,xxx,PROXY
+- DOMAIN-SUFFIX,adult,PROXY
+- DOMAIN-SUFFIX,cam,PROXY
+- DOMAIN-SUFFIX,video,PROXY
+- DOMAIN-SUFFIX,tube,PROXY
+
+# --- Pornhub 系 (日本 IP 兼容性极佳) ---
 - DOMAIN-SUFFIX,pornhub.com,PROXY
 - DOMAIN-SUFFIX,phncdn.com,PROXY
 - DOMAIN-SUFFIX,phprcdn.com,PROXY
 - DOMAIN-SUFFIX,pornhubpremium.com,PROXY
+- DOMAIN-SUFFIX,thumbzilla.com,PROXY
+- DOMAIN-SUFFIX,redtube.com,PROXY
+- DOMAIN-SUFFIX,youporn.com,PROXY
+
+# --- XVideos & XNXX 系 (日本 IP 兼容性极佳) ---
+- DOMAIN-SUFFIX,xvideos.com,PROXY
+- DOMAIN-SUFFIX,xv-vids.com,PROXY
+- DOMAIN-SUFFIX,xnxx.com,PROXY
+- DOMAIN-SUFFIX,xnxx-cdn.com,PROXY
+
+# --- xHamster 系 (日本 IP 兼容性极佳) ---
+- DOMAIN-SUFFIX,xhamster.com,PROXY
+- DOMAIN-SUFFIX,xhcdn.com,PROXY
+- DOMAIN-SUFFIX,xhamsterlive.com,PROXY
+
+# --- 其他国际大站 & 图片站 ---
+- DOMAIN-SUFFIX,spankbang.com,PROXY
+- DOMAIN-SUFFIX,eporner.com,PROXY
+- DOMAIN-SUFFIX,beeg.com,PROXY
+- DOMAIN-SUFFIX,rule34.xxx,PROXY
+- DOMAIN-SUFFIX,gelbooru.com,PROXY
+- DOMAIN-SUFFIX,hanime.tv,PROXY
+
+# --- 关键词模糊匹配 ---
 - DOMAIN-KEYWORD,pornhub,PROXY
+- DOMAIN-KEYWORD,sex,PROXY
